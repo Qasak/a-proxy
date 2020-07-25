@@ -1,6 +1,6 @@
 ![img](https://github.com/Qasak/a-proxy/blob/master/notes/proxy%E5%9C%B0%E5%9D%80%E4%B8%8E%E7%AB%AF%E5%8F%A3.png)
 
-![img](https://github.com/Qasak/a-proxy/blob/master/notes/socket%E6%8E%A5%E5%8F%A3-echo%E6%9C%8D%E5%8A%A1%E5%99%A8.png)
+
 
 ## Summary
 
