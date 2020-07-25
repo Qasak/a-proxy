@@ -267,6 +267,10 @@ netcat，也称为nc，是一个多功能的网络实用程序。你可以像tel
 
 最后，你应该使用最新版本的Mozilla Firefox测试proxy。访问`About Firefox`会自动将你的浏览器更新到最新版本。
 
+![img](https://github.com/Qasak/a-proxy/blob/master/notes/firefox%E4%BB%A3%E7%90%86%E8%AE%BE%E7%BD%AE.png)
+
+
+
 要配置Firefox以使用proxy，请访问
 
 ```
