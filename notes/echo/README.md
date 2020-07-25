@@ -411,5 +411,14 @@ void Getnameinfo(const struct sockaddr *sa, socklen_t salen, char *host,
                           servlen, flags)) != 0) 
         gai_error(rc, "Getnameinfo error");
 }
+
+void Getaddrinfo(const char *node, const char *service, 
+                 const struct addrinfo *hints, struct addrinfo **res)
+{
+    int rc;
+
+    if ((rc = getaddrinfo(node, service, hints, res)) != 0) 
+        gai_error(rc, "Getaddrinfo error");
+}
 ```
 
