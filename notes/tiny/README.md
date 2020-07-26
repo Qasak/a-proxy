@@ -1,6 +1,16 @@
 ## Tiny web server
 
++ 文本描述的微型Web服务器
+  + Tiny是一个顺序Web服务器
+  + 为真实浏览器提供静态和动态内容
 
+文本文件、HTML文件、GIF、PNG和JPEG图像
+
+239行带注释的C代码
+
+不像真正的Web服务器那样完整或健壮
+
+您可以用格式错误的HTTP请求（例如，用“\n”而不是“\r\n”来终止行）
 
 ```c
 /* $begin tinymain */
